@@ -19,6 +19,7 @@ namespace DegerVeReferaansTipler
             sayilar2[0] = 999;
             //sayilar[0] = 999
 
+
         }
     }
 }
